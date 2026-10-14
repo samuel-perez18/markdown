@@ -79,3 +79,5 @@ Para insertar una imagen almacenada en la carpeta `/assets/`, usamos la sintaxis
 Para insertar una imagen alojada en un servidor remoto o Wikimedia Commons, utilizamos su URL directa:
 
 ![Dos de Mayo por Joaquín Sorolla - IES Clara del Rey](https://site.educa.madrid.org/ies.claradelrey.madrid//wp-content/uploads/ies.claradelrey.madrid/2026/03/Dos_de_mayo_por_Joaquin_Sorolla-1.jpg)
+
+edit ramas
