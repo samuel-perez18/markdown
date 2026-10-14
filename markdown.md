@@ -31,10 +31,8 @@ git status
 
 ---
 
-### Bloque 3: Sección 3 (Listas Organizadas)
-Copia esto a continuación:
-
 ```markdown
+
 ## 3. Listas Organizadas
 
 Markdown permite estructurar la información mediante dos tipos de listas:
