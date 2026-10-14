@@ -51,7 +51,7 @@ Markdown permite estructurar la información mediante dos tipos de listas:
 
 Los enlaces se crean utilizando corchetes para el texto visible `[Texto]` y paréntesis para la dirección `(URL)`:
 
-- **Enlace externo:** Puedes consultar más detalles en la [Guía Oficial de Markdown](https://www.markdownguide.org).
+- **Enlace externo:** Puedes consultar más detalles en la [Guía Oficial de Markdown](https://tutorialmarkdown.com/sintaxis-extendida).
 - **Enlace relativo interno:** Consulta el archivo secundario con los [Detalles adicionales del proyecto](docs/detalles.md).
 
 ---
