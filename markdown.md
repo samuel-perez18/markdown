@@ -28,10 +28,8 @@ Cuando necesitamos incluir scripts o bloques de código más extensos, utilizamo
 # Ejemplo de script en Debian para verificar el repositorio Git
 echo "=== Estado del repositorio actual ==="
 git status
-
+```
 ---
-
-```markdown
 
 ## 3. Listas Organizadas
 
